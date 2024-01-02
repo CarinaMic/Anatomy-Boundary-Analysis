@@ -45,3 +45,7 @@ Pelvis, Landmarks, Size Comparison, Scaling, Bounding Box, Bounding Sphere, Biom
 - [Minimal Bounding Box](https://www.mathworks.com/matlabcentral/fileexchange/18264-minimal-bounding-box) - Johannes Korsawe (2024)
 - [calc_OriBoundingBox(data)](https://www.mathworks.com/matlabcentral/fileexchange/64417-calc_oriboundingbox-data) - Svenja Reimer (2024)
 - [Exact minimum bounding spheres and circles](https://github.com/AntonSemechko/Bounding-Spheres-And-Circles) - Anton Semechko (2024)
+
+## Cite As:
+- Carina Micheler (2024). Anatomy-Boundary-Analysis (https://github.com/CarinaMic/Anatomy-Boundary-Analysis), GitHub. 
+- Micheler, Carina M., et al. “Scaling Methods of the Pelvis without Distortion for the Analysis of Bone Defects.” Current Directions in Biomedical Engineering, vol. 8, no. 2, Walter de Gruyter GmbH, Aug. 2022, pp. 797–800, doi:10.1515/cdbme-2022-1203.
