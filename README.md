@@ -29,10 +29,10 @@ This MATLAB project provides advanced methods for comparing the size of pelvic s
 - Efficient and comprehensive visualisation and analysis of anatomical models.
 
 ## Compatibility:
-The class is compatible with MATLAB and can be easily integrated into existing workflows for scaling anatomical models.
+The project is compatible with MATLAB and can be easily integrated into existing workflows for scaling anatomical models.
 
 ## Disclaimer:
-This MATLAB class is provided on the MATLAB File Exchange for educational and research purposes. Users should ensure that the class meets their specific analysis requirements and may need to adapt it accordingly. The code is provided "as-is," and the author assumes no responsibility for its use or any consequences thereof.
+This MATLAB project is provided on the MATLAB File Exchange for educational and research purposes. Users should ensure that the project meets their specific analysis requirements and may need to adapt it accordingly. The code is provided "as-is," and the author assumes no responsibility for its use or any consequences thereof.
 
 ## MATLAB Version Compatibility:
 Optimised for Matlab 2023a, but should be compatible with most recent MATLAB versions.
