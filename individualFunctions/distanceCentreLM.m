@@ -51,6 +51,7 @@ function [vectors,distances,closestLM] = distanceCentreLM(importData)
     % Store closest landmarks
     closestLM = closestLandmarks;
     
-    disp(['Landmark distances to centre calculated: pelvis ', num2str(pelvisNum)]);
+    disp('Landmark distances to centre calculated');
+
 
 end
